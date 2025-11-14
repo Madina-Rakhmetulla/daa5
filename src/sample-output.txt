@@ -1,0 +1,12 @@
+=== Test 1: Short string ===
+Matches: [10]
+
+=== Test 2: Medium string ===
+Matches: [0, 31]
+
+=== Test 3: Long string ===
+Text length: 100000
+Matches found: 19999
+Time (ms): 6.304042
+
+Process finished with exit code 0
