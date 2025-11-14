@@ -15,7 +15,6 @@ The program searches for all occurrences of a pattern inside a text and demonstr
 ## How to Run
 Go to the `src` folder and run:
 
-```bash
 javac KMPDemo.java
 java KMPDemo
 The program will print results for all three test cases.
